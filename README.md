@@ -32,7 +32,7 @@ If you're passionate, reach out — let's build something epic!
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/manneudaykiran)  
+- [LinkedIn](https://www.linkedin.com/in/uday-kiran-536520282/)  
 - Or just shout "Hey Uday!" into the void, and I might hear it... or not.
 
 ---
