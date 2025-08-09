@@ -57,7 +57,8 @@
 
 - 🏆 HackerRank Problem Solving (Intermediate)  
 - 🏆 HackerRank Python (Basic)  
-- *(More coming soon...)*  
+- 🏆 Programming in Java
+- 🏆 Programming in Modern c++
 
 ---
 
